@@ -1,0 +1,25 @@
+div#main{
+    margin: 10px;
+}
+
+.box{
+    width: 100px;
+    height: 80px;
+    border: 1px solid #000;
+    margin: 5px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.box1{
+    border: 1px solid #f00;
+    display: block;
+}
+.box2{
+    border: 1px solid #0f0;
+    display: inline;
+}
+.box3{
+    border: 10p solid #9e7 ;
+    display: inline-block;
+}
