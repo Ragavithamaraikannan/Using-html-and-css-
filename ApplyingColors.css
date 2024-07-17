@@ -1,0 +1,10 @@
+h1{
+    background-color: aquamarine;
+}
+div{
+border: 1px solid rgb(5,18, 16);
+background-color:hsl(192, 100%, 33%);
+margin-bottom: 10px;
+padding: 10px;
+}
+
